@@ -1,8 +1,5 @@
 #!/bin/bash
 
-sudo apt update -y
-sudo apt dist-upgrade -y
-
 mkdir -p ~/kernelupdate
 cd ~/kernelupdate
 rm -rf *.deb
